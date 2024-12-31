@@ -46,7 +46,7 @@
 			<td align=center colspan="3"><button name="Tombol" onclick="window.location.href='https://api.whatsapp.com/send/?phone=6285179769545&text&type=phone_number&app_absent=0';"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1024px-WhatsApp_logo-color-vertical.svg.png"><br><font >WhatsApp</font></button></td></tr>
 		<tr><td colspan="3"><hr></td></tr>
 	</table>
-	<table border="1" align="center" style="background-image:linear-gradient(to bottom,rgba(255, 255, 255, 0),white); padding-top: 1400%; padding: 133px; margin-left: -35px; margin-bottom: -11px;" width="900px">
+	<table align="center" style="background-image:linear-gradient(to bottom,rgba(255, 255, 255, 0),white); padding-top: 1400%; padding: 133px; margin-left: -35px; margin-bottom: -11px;" width="900px">
 		<tr align="center">
 			<td><img name="preview" src="https://scontent.fbth6-1.fna.fbcdn.net/v/t39.30808-6/471822111_596272136149997_7808661658404777895_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_ohc=iDFuC3MdwokQ7kNvgEIa20A&_nc_zt=23&_nc_ht=scontent.fbth6-1.fna&_nc_gid=AH6W8NLWPaRi3Hko3uixgLy&oh=00_AYBwoE21ViPqSFoLja9lsyEjm8UveZZMq8LgV80M78dbpQ&oe=677A0BE5"></td>
 			<td><img name="preview" src="https://scontent.fbth6-1.fna.fbcdn.net/v/t39.30808-6/472129715_597042176072993_7246232661390529166_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=1pbaRl4JKbkQ7kNvgErDyYx&_nc_zt=23&_nc_ht=scontent.fbth6-1.fna&_nc_gid=AWdsHUeSZ4YkNc8XuH29sQ3&oh=00_AYBFT14XwO_KYrPeVX7Y2paNmxMUDIjbF0JDUxfMhYJpYw&oe=6779FEEA">
