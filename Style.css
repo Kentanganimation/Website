@@ -88,3 +88,6 @@ html
 {
 	overflow-x: hidden;
 }
+video
+{
+	border-radius: 15%;
