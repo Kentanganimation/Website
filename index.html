@@ -26,6 +26,13 @@
             }
             lastTouchEnd = now;
         }, { passive: false });
+		 document.addEventListener('DOMContentLoaded', () => {
+      const userAgent = navigator.userAgent.toLowerCase();
+
+      if (/mobile|android|iphone|ipad|ipod/i.test(userAgent)) {
+        window.location.href = "https:.com"; 
+    }
+    });
     </script>
 	<table name=profiletable align="center">
 		<tr>
