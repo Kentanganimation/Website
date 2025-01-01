@@ -6,11 +6,13 @@
 @media (max-width:991px) {
   .content-nav {
     padding: 0 30px;
+	  width:991px;
   }
 }
 @media (max-width:767px) {
   .content-nav {
     padding: 0 15px;
+	  width:767px;
   }
 }
 @font-face
