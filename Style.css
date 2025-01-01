@@ -1,7 +1,8 @@
 @media (max-width: 1200px) {
   .content-nav {
     padding: 0 100px;
-	  size: 991px
+	width:  991px
+	  height: 991px
   }
 }
 @font-face
