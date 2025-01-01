@@ -1,22 +1,23 @@
-@media (max-width:1200px) {
+@media (max-width: 1200px) {
   .tabelProfile {
-   align:center;
-  margin: auto;
-  }
-  .tabel
-  {
+    text-align: center;
     margin: auto;
-    background-color:white;
+  }
+  .tabel {
+    margin: auto;
+    background-color: white;
     width: 100%;
     padding-left: 100px;
-    padding-right: 100px; margin-bottom: -10px;"
+    padding-right: 100px;
+    margin-bottom: -10px; 
   }
 }
+
 
 @media (max-width:991px) {
   .content-nav {
     padding: 0 30px;
-    width: 100%; /* Fixed width issue */
+    width: 100%; 
   }
 }
 
