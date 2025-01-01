@@ -3,6 +3,16 @@
     padding: 0 60px;
   }
 }
+@media (max-width:991px) {
+  .content-nav {
+    padding: 0 30px;
+  }
+}
+@media (max-width:767px) {
+  .content-nav {
+    padding: 0 15px;
+  }
+}
 @font-face
 {
 	font-family: "Belgietta_dafont.ttf";
