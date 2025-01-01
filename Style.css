@@ -1,8 +1,12 @@
 @media (max-width: 1200px) {
   .tabelProfile {
-    text-align: center;
-    margin: auto;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  text-align: center;
+}
   .tabel {
     margin: auto;
     background-color: white;
@@ -23,11 +27,10 @@
 }
 
 @media (max-width:767px) {
-  .content-nav {
-    padding: 0 15px;
-    overflow-y: hidden;
-  }
-
+  .tabel {
+  padding-left: 20px;
+  padding-right: 20px;
+}
   body {
     overflow-y: hidden;
   }
