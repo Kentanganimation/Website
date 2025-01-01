@@ -12,9 +12,11 @@
 @media (max-width:767px) {
   .content-nav {
     padding: 0 15px;
-	  width:767px;
+	   overflow: hidden;
   }
+	body{overflow: hidden;}
 }
+
 @font-face
 {
 	font-family: "Belgietta_dafont.ttf";
