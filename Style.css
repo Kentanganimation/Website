@@ -4,6 +4,12 @@
 	  margin: 0px;
   }
 }
+@media (max-width:767px) {
+  .content-nav {
+    padding: 0 30px;
+	  margin:10 0px;
+  }
+}
 @font-face
 {
 	font-family: "Belgietta_dafont.ttf";
