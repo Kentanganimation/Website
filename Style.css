@@ -12,9 +12,9 @@
 @media (max-width:767px) {
   .content-nav {
     padding: 0 15px;
-	   overflow: hidden;
+	   overflow-y: hidden;
   }
-	body{overflow: hidden;}
+	body{overflow-y: hidden;}
 }
 
 @font-face
